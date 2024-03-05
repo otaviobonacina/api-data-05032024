@@ -1,0 +1,8 @@
+# GET  https://8080-otaviobonac-apidata0503-bufojvo7qr5.ws-us108.gitpod.io/filme
+POST https://8080-otaviobonac-apidata0503-bufojvo7qr5.ws-us108.gitpod.io/filmes
+Content-Type: application/json
+
+{
+    "titulo": "Novo Filme 3 ",
+    "sinopse": "teste de POST"
+}

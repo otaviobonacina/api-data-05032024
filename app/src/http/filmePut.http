@@ -1,0 +1,7 @@
+PUT  https://8080-otaviobonac-apidata0503-bufojvo7qr5.ws-us108.gitpod.io/filmes/1
+Content-Type: application/json
+
+{
+    "titulo": "Zé da MANGA, o filme ",
+    "sinopse": "Ai PAPAI"
+}
