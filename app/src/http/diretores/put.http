@@ -1,0 +1,5 @@
+PUT https://8080-otaviobonac-apidata0503-xivvo3xqpow.ws-us108.gitpod.io/diretores 
+Content-Type: application/json
+{
+    "nome": "Atualizado"
+}
